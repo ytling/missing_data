@@ -1,6 +1,6 @@
 ---
 title: "Missing Data"
-output: html_document
+output: github_document
 
 ---
 
